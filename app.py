@@ -9,7 +9,7 @@ import os
 
 # Email configuration
 SENDER_EMAIL = "patilgaurav075@gmail.com"
-EMAIL_APP_PASSWORD = "pxno vshc pzbe xezs"
+EMAIL_APP_PASSWORD = "Gaurav12@@"
 
 # File paths
 BOOKING_FILE = 'booking.csv'
