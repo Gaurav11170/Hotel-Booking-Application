@@ -8,7 +8,7 @@ import string
 import os
 
 # Email Configuration
-SENDER_EMAIL = "anithatechnologiesandservices@gmail.com"
+SENDER_EMAIL = "patilgaurav075@gmail.com"
 EMAIL_APP_PASSWORD = "pxno vshc pzbe xezs"
 
 BOOKING_FILE = 'booking.csv'
